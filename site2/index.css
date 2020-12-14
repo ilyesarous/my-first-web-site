@@ -7,6 +7,7 @@ header{
     letter-spacing: 0.05cm;
     text-transform: capitalize;
     color: rgb(192, 65, 15);
+    text-align: center;
 }
 p{
     line-height: 1cm;
